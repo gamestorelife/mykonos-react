@@ -1,4 +1,4 @@
-{"homepage": "https://gamestorelife.github.io/mykonos-react",
+{"homepage": "https://gamestorelife.github.io/mykonos-react/",
   "name": "mykonos-project",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start" : "react-script start"
   },
   "dependencies": {
     "react": "^18.2.0",
