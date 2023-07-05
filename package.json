@@ -1,6 +1,6 @@
 {"homepage": "https://gamestorelife.github.io/mykonos-react/",
   "name": "mykonos-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   
